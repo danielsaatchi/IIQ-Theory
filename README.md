@@ -1,4 +1,4 @@
-# IIQ-Theory
+# IIQ-Theory Computer Simulations
 Related to paper: Interface Intelligence Quantitative Theory [4] Dummies
 
 Interface Intelligence Quantified (IIQ) Computer Simulation
