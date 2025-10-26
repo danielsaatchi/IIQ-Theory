@@ -4,12 +4,11 @@
 # IIQ-Theory
 Related to paper: Interface Intelligence Quantitative Theory 
 
-Interface Intelligence Quantified (IIQ) Computer Simulation 
-for Financial Engineering and AI Ventures Simulations for Investors
+Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engineering and AI Ventures Simulations
 
 Developed by Daniel Saatchi — Computational Scientist
 
-Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT
+Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT | Investors
 
 Date: 2025 October 18
 
