@@ -4,19 +4,19 @@
 # IIQ-Theory
 Related to paper: Interface Intelligence Quantitative Theory 
 
-/>: Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engineering and AI Ventures Simulations
+>/: Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engineering and AI Ventures Simulations
 
-/>: Behavioral Finance Application for Angel Investors, Corporate Investors, Venture Capitalists
+>/: Behavioral Finance Application for Angel Investors, Corporate Investors, Venture Capitalists
 
-/>: Developed by Daniel Saatchi — Computational Scientist & Open-Source AI Advocate
+>/: Developed by Daniel Saatchi — Computational Scientist & Open-Source AI Advocate
 
-/>: Repo Managed by: ONSOFA Studio [4] Artificial Intelligence
+>/: Repo Managed by: ONSOFA Studio [4] Artificial Intelligence
 
-/>: Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT 
+>/: Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT 
 
-/>: Date: 2025 October 18
+>/: Date: 2025 October 18
 
-/>: ArXive Link for Pre-Print
+>/: ArXive Link for Pre-Print
 Before Journal Publication 
 
 # Preface for Interhumanism Realm 
