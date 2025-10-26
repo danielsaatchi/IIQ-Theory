@@ -31,5 +31,8 @@ In this work, we developed the IIQ (Intelligent Investment Quotient) theory and 
 we provided the computational modeling code on Colab that I used after deriving the mathematics and interpretation for it. You score interface intelligences or interspecies or interhuman or intermachines depending on the logics provided here for cognitive abilities and communication fidelity for interface bandwidth. You can make tones of combinations between two symbionts, three symbionts, and infinite symbionts interconnected to each other through machines and AI systems even if they are not practical now, but if you read IIQ theory, we already achieved the low level of it and it is increasing. 
 
 
+# Opensource Octordummer Project: Brain Interface Machine
+we provided the computational modeling code on Colab that I used after deriving the mathematics and interpretation for it. You score interface intelligences or interspecies or interhuman or intermachines depending on the logics provided here for cognitive abili
+
 # Our Bitcoin, EtH, ETC, ADA, and Tron Wallets
 we provided you the 
