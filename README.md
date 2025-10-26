@@ -9,7 +9,8 @@ Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engine
 Behavioral Finance Application for Angel Investors, Corporate Investors, Venture Capitalists
 
 Developed by Daniel Saatchi — Computational Scientist & Open-Source AI Advocate
-GitHub Repo Managed by: ONSOFA Studio [4] Artificial Intelligence
+
+Repo Managed by: ONSOFA Studio [4] Artificial Intelligence
 
 Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT 
 
