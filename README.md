@@ -6,9 +6,11 @@ Related to paper: Interface Intelligence Quantitative Theory
 
 Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engineering and AI Ventures Simulations
 
+Application: for Angel Investors, Corporate Investors, Venture Capitalist
+
 Developed by Daniel Saatchi — Computational Scientist
 
-Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT | INVESTORS
+Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT 
 
 Date: 2025 October 18
 
