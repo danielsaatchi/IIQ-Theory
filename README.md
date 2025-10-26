@@ -6,7 +6,7 @@ Related to paper: Interface Intelligence Quantitative Theory
 
 >// Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engineering and AI Ventures Simulations
 
->// Behavioral Finance Application for Angel Investors, Corporate Investors, Venture Capitalists
+>// Behavioral Finance Application for Angel Investors, Corporate AI Investors, Venture Capitalists
 
 >// Developed by Daniel Saatchi — Computational Scientist & Open-Source AI Advocate
 
