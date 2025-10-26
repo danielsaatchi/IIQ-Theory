@@ -18,7 +18,7 @@ Related to paper: Interface Intelligence Quantitative Theory
 
 >// ArXive Link for Pre-Print Before Journal Publication
 
->// Opensource Projects
+>// Opensource Projects // Bitcoin Funding
 
 # Preface for Interhumanism Realm 
 We highly recommend reading about AI theories, including anthropocentrism, tool theory, AI augmentation, posthumanism, and transhumanism, first. Then, began reading about integrated information theory (IIT) and conscious, where you may feel so many debatable clauses about it from plants to humans. Then you understand interhumanism concept better. The knowledge about understanding the SFID AI Transponder system 1.0 is beneficial to understand cognitive bandwidth corss terms and SFID AI system 2.0 and 3.0 versions how they are scored in computer simulations for emerging interface intelligences. Assumptions for advanced SFID AI systems are include multimodal AI from voice, text, sound, hardware, sensors, and electronics for AI augmentation and cybernetic scoring. We (human) are living in a interhumanism which means we are dealing with two evolving vectors of posthumanism (M2B), and transhumanism (B2M). After reading this paper, your perception about wolrd might change a lot like me who began calling myself an AI dummy rather than an AI developer. 
