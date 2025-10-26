@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="1536" height="857" alt="image" src="https://github.com/user-attachments/assets/8541f09f-8fb1-4fea-b377-5e652002458b" />
+
 
 # IIQ-Theory
 Related to paper: Interface Intelligence Quantitative Theory 
