@@ -16,8 +16,8 @@ Related to paper: Interface Intelligence Quantitative Theory
 
 >// Date: 2025 October 18
 
->// ArXive Link for Pre-Print
-Before Journal Publication
+>// ArXive Link for Pre-Print Before Journal Publication
+
 >// Opensource Projects
 
 # Preface for Interhumanism Realm 
