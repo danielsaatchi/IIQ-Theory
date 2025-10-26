@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # IIQ-Theory
 Related to paper: Interface Intelligence Quantitative Theory 
 
