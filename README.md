@@ -33,7 +33,7 @@ In this work, we developed the IIQ (Intelligent Investment Quotient) theory and 
 we provided the computational modeling code on Colab that I used after deriving the mathematics and interpretation for it. You score interface intelligences or interspecies or interhuman or intermachines depending on the logics provided here for cognitive abilities and communication fidelity for interface bandwidth. You can make tones of combinations between two symbionts, three symbionts, and infinite symbionts interconnected to each other through machines and AI systems even if they are not practical now, but if you read IIQ theory, we already achieved the low level of it and it is increasing. 
 
 
-# Octordummer Project at ATINNITUS band & Tranhumanism 
+# Octordummer Project at ATINNITUS band & Live Concerts 
 ATINNITUS metal band is a cybernetic post-metal band where human band members are experimenting on different communication fidelities (e.g. brain interfaces refer to ones explained in the IIQ theory ArXive paper) to AI-robotic machines. ATINNITUS is the epic center of borng of IIQ theory where other collaborators partnered and got involved. The octodrummer project is a brain interface metamaterial machine (BIMM) for an AI-robotic octopus like drummer capable of improvising and syncrhonzing with human guitarists and vocalist of ATINNITUS band in a live concert they want to perform two songs with it. 
 
 ATINNITUS album and songs can be founds on Youtube and Bandcamp Links
