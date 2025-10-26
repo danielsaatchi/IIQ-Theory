@@ -8,7 +8,7 @@ Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engine
 
 Behavioral Finance Application for Angel Investors, Corporate Investors, Venture Capitalists
 
-Developed by Daniel Saatchi — Computational Scientist
+Developed by Daniel Saatchi — Computational Scientist & Opensoruce AI Developer
 
 Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT 
 
@@ -31,7 +31,7 @@ In this work, we developed the IIQ (Intelligent Investment Quotient) theory and 
 we provided the computational modeling code on Colab that I used after deriving the mathematics and interpretation for it. You score interface intelligences or interspecies or interhuman or intermachines depending on the logics provided here for cognitive abilities and communication fidelity for interface bandwidth. You can make tones of combinations between two symbionts, three symbionts, and infinite symbionts interconnected to each other through machines and AI systems even if they are not practical now, but if you read IIQ theory, we already achieved the low level of it and it is increasing. 
 
 
-# Funding Octordummer Project at ATINNITUS band
+# Octordummer Project at ATINNITUS band
 we provided the computational modeling code on Colab that I used after deriving the mathematics and interpretation for it. You score interface intelligences or interspecies or interhuman or intermachines depending on the logics provided here for cognitive abili
 
 # Our Bitcoin, EtH, ETC, ADA, and Tron Wallets
