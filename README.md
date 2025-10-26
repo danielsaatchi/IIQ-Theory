@@ -8,7 +8,7 @@ Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engine
 
 Developed by Daniel Saatchi — Computational Scientist
 
-Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT | Investors
+Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT | INVESTORS
 
 Date: 2025 October 18
 
