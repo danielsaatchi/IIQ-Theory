@@ -1,9 +1,9 @@
 # IIQ-Theory
-Related to paper: Interface Intelligence Quantitative Theory [4] Dummies
+Related to paper: Interface Intelligence Quantitative Theory 
 
-Interface Intelligence Quantified (IIQ) Computer Simulation
+Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engineering and AI Ventures Simualtions
 
-Developed by Daniel Saatchi — Computational Scientist & AI Dummy;)
+Developed by Daniel Saatchi — Computational Scientist
 
 Date: 2025 October 18
 
