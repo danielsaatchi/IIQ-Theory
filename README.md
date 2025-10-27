@@ -2,7 +2,7 @@
 
 
 # IIQ-Theory
-Related to paper: Interface Intelligence Quantitative Theory 
+Related to paper: Interface Intelligence Quantitative Theory & Brain Interface Machines
 
 >// Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engineering and AI Ventures Simulations
 
