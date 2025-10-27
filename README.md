@@ -39,5 +39,6 @@ ATINNITUS metal band is a cybernetic post-metal band where human band members ar
 
 ATINNITUS album and songs can be founds on Youtube and Bandcamp Links
 
-# Our Bitcoin, ETH, ADA, and Tron Wallets
+#  Bitcoin Wallet for ATINNITUS Octodrummer Project
+You can also support this project with ETH (Etherium), Trx (Tron), and Ada (Cardano):
 <img width="1171" height="592" alt="image" src="https://github.com/user-attachments/assets/1225f61c-b57b-4a55-be79-b7d75d50450b" />
