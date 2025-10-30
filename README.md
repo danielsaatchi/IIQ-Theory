@@ -1,4 +1,4 @@
-<img width="1292" height="697" alt="image" src="https://github.com/user-attachments/assets/0fb933d2-5c28-4af0-b0ef-99ae10494103" />
+<img width="1281" height="700" alt="image" src="https://github.com/user-attachments/assets/ee57b6fc-95b8-49ba-bb0e-adc4023dde7e" />
 
 
 # IIQ-Theory
