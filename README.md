@@ -1,5 +1,9 @@
 <img width="1281" height="700" alt="image" src="https://github.com/user-attachments/assets/ee57b6fc-95b8-49ba-bb0e-adc4023dde7e" />
 
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
 
 # IIQ-Theory
 Related to paper: Interface Intelligence Quantitative Theory 
