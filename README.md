@@ -2,7 +2,7 @@
 
 ## License
 
-This project is licensed under the [[Apache License 2.0]](https://github.com/danielsaatchi/IIQ-Theory?tab=Apache-2.0-1-ov-file)
+This project is licensed under the [Apache License 2.0](https://github.com/danielsaatchi/IIQ-Theory?tab=Apache-2.0-1-ov-file)
 
 
 # IIQ-Theory
