@@ -1,4 +1,4 @@
-<img width="1281" height="700" alt="image" src="https://github.com/user-attachments/assets/ee57b6fc-95b8-49ba-bb0e-adc4023dde7e" />
+![Economy Efficiency](https://github.com/user-attachments/assets/d2a1ea2a-76db-49b0-827b-e54ff8a27090)<img width="1281" height="700" alt="image" src="https://github.com/user-attachments/assets/ee57b6fc-95b8-49ba-bb0e-adc4023dde7e" />
 
 ## License
 
@@ -44,6 +44,9 @@ we provided the computational modeling code on Colab that I used after deriving 
 
 -Cross-terms simulation
 ![cross_terms_git](https://github.com/user-attachments/assets/3537bb4d-9452-46ec-8b3e-d5be9a08aa16)
+
+-Economy Efficiency simulation
+![Economy Efficiency](https://github.com/user-attachments/assets/805e8f1f-8b63-4aba-b0da-5f6cc8e859ed)
 
 
 
