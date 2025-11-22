@@ -39,16 +39,16 @@ In this work, we developed the IIQ (Intelligent Investment Quotient) theory and 
 ## Code for IIQ Computer Simulations 
 we provided the computational modeling code on Colab that I used after deriving the mathematics and interpretation for it. You score interface intelligences, transpecies or transhuman, depending on the logic provided here for cognitive abilities and communication fidelity for interface bandwidth. You can make tones of combinations between two symbionts, three symbionts, and infinite symbionts interconnected to each other through machines and AI systems even if they are not practical now, but if you read IIQ theory, we already achieved the low level of it and it is increasing. 
 
--Race bar chart (Video S1)
+- Video S1: Race bar chart
 ![CII_Bar_Race_GPUs](https://github.com/user-attachments/assets/b9d50eef-ff70-4a71-b551-016b42d0c285)
 
--Cross-terms simulation (Video S2)
+- Video S2: Cross-terms simulation 
 ![CII_CrossTerms_Scatter_GPUs](https://github.com/user-attachments/assets/3dcf8059-35a9-4936-872d-5c3b2ffe3869)
 
--Economy efficiency simulation for GPU variables (Video S3)
+- Video S3: Economy efficiency simulation for GPU variables 
 ![CII_VPT_Scatter_GPUs](https://github.com/user-attachments/assets/6e4e9f3c-cbb8-4946-a8eb-8490bcd372bd)
 
--Economy efficiency simulation for LLM variable (Video S4)
+- Video S4: Economy efficiency simulation for LLM variable 
 ![CII_VPT_Scatter_LLM_score (1)](https://github.com/user-attachments/assets/ff5808bb-2373-4193-a7b3-27465dfd842e)
 
 
