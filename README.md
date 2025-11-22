@@ -39,17 +39,17 @@ In this work, we developed the IIQ (Intelligent Investment Quotient) theory and 
 ## Code for IIQ Computer Simulations 
 we provided the computational modeling code on Colab that I used after deriving the mathematics and interpretation for it. You score interface intelligences, transpecies or transhuman, depending on the logic provided here for cognitive abilities and communication fidelity for interface bandwidth. You can make tones of combinations between two symbionts, three symbionts, and infinite symbionts interconnected to each other through machines and AI systems even if they are not practical now, but if you read IIQ theory, we already achieved the low level of it and it is increasing. 
 
--Race bar chart
-![racebar_gift](https://github.com/user-attachments/assets/85758cda-c71e-47d5-bd4d-878f22dd6b8e)
+-Race bar chart (Video S1)
+![CII_Bar_Race_GPUs](https://github.com/user-attachments/assets/b9d50eef-ff70-4a71-b551-016b42d0c285)
 
--Cross-terms simulation
-![cross_terms_git](https://github.com/user-attachments/assets/3537bb4d-9452-46ec-8b3e-d5be9a08aa16)
+-Cross-terms simulation (Video S2)
+![CII_CrossTerms_Scatter_GPUs](https://github.com/user-attachments/assets/3dcf8059-35a9-4936-872d-5c3b2ffe3869)
 
--Economy efficiency simulation for GPUs variable
-![Economy Efficiency](https://github.com/user-attachments/assets/805e8f1f-8b63-4aba-b0da-5f6cc8e859ed)
+-Economy efficiency simulation for GPU variables (Video S3)
+![CII_VPT_Scatter_GPUs](https://github.com/user-attachments/assets/6e4e9f3c-cbb8-4946-a8eb-8490bcd372bd)
 
--Economy efficiency simulation for LLM variable
-![Economy Efficiency_LLM score](https://github.com/user-attachments/assets/713d5ad8-ebb9-42ed-8240-5ef63e77d2f1)
+-Economy efficiency simulation for LLM variable (Video S4)
+![CII_VPT_Scatter_LLM_score (1)](https://github.com/user-attachments/assets/ff5808bb-2373-4193-a7b3-27465dfd842e)
 
 
 
