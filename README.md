@@ -1,4 +1,4 @@
-<img width="1281" height="700" alt="image" src="https://github.com/user-attachments/assets/ee57b6fc-95b8-49ba-bb0e-adc4023dde7e" />
+<img width="1542" height="857" alt="image" src="https://github.com/user-attachments/assets/300a3880-3aca-4cb9-ba51-0edcd146b4bc" />
 
 ## License
 
@@ -58,7 +58,7 @@ ATINNITUS metal band is a cybernetic post-metal band where human band members ar
 
 ATINNITUS album and songs can be founds on Youtube and Bandcamp Links
 
-<img width="1343" height="755" alt="image" src="https://github.com/user-attachments/assets/b4394741-b288-4c9d-96f4-6fc471c5c647" />
+<img width="1547" height="863" alt="image" src="https://github.com/user-attachments/assets/efdcd117-658f-466f-83b8-ecfc26e8f269" />
 
 
 ###  Bitcoin Wallet for Octodrummer Project
