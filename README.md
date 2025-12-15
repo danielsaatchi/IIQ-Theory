@@ -62,5 +62,5 @@ ATINNITUS album and songs can be founds on Youtube and Bandcamp Links
 
 
 ###  Bitcoin Wallet for Octodrummer Project
-Patrons may also support this project with ETH (Ethereum), Trx (Tron), and Ada (Cardano):
+The ticket price for the ATNNITUS concert is $170 for the Octodrummer Project early bid; however the time of concert depends on development speed and budget band is getting sponsership for. Besides, Patrons may also support this project with Bitcoin (BTC), ETH (Ethereum), Trx (Tron), and Ada (Cardano):
 <img width="1171" height="592" alt="image" src="https://github.com/user-attachments/assets/1225f61c-b57b-4a55-be79-b7d75d50450b" />
