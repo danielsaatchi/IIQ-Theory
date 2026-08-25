@@ -77,3 +77,6 @@ The entire chapter has been developed into a dramatic sci-fi series exploring ho
 
 KIMERA-2092 Website designed by DAATCHI: https://daatchi.github.io/kimera2092
 
+<img width="1782" height="1125" alt="image" src="https://github.com/user-attachments/assets/8050dd70-df53-4b5c-b8cf-63bea412ac37" />
+
+
