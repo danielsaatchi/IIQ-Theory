@@ -69,7 +69,7 @@ The ticket price for the ATNNITUS concert is $170 for the Octodrummer Project ea
 
 
 ## KIMERA 2092 Drama Series & Chimera Concept
-This preprint from AIJAM is based on diaries and technical reports concerning the *Chimera Concept*, presented in Chapter 9 of the book **My Traumas | My Technologies**, written by **DANIEL SAATCHI**.
+This preprint from AIJAM is based on diaries and technical reports concerning the *Chimera Concept*, presented in the book chapter of **My Traumas | My Technologies**, written by **DANIEL SAATCHI**.
 
 The entire chapter has been developed into a dramatic sci-fi series exploring how brain–interface technologies &  AI=enabled-metamaterials for biotechnology may evolve in the future, as well as technologies currently under development in R&D laboratories. The project aims to raise public awareness of emerging transhumanist technologies and their potential implications and threats to humanity.
 
