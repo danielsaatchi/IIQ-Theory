@@ -75,4 +75,5 @@ The entire chapter has been developed into a dramatic sci-fi series exploring ho
 
 **KIMERA-2092** drama series (Genre: documantary & sci-fi) for transhumansim is currently under production by **DAATCHI Studio [4] Technology Design** casted by both AI-generated characters and real humans  (e.g. Daniel Saatchi will appear on a few episodes as R&D developments documenary and flashbacks for events between 2003-2029 to explain how chimera-transhuman-species developments began). It is a must-watch drama series inspired by today's technological reality while exploring possible future developments in AI, biotechnology, and transhumanism.
 
+KIMERA-2092 Website designed by DAATCHI: https://daatchi.github.io/kimera2092
 
