@@ -69,9 +69,9 @@ The ticket price for the ATNNITUS concert is $170 for the Octodrummer Project ea
 
 
 ## KIMERA 2092 Drama Series & Chimera Concept
-This preprint from AIJAM is based on diaries and technical reports concerning the *Chimera Concept*, presented in Chapter 9 of the book *My Traumas | My Technologies*, written by **DANIEL SAATCHI**.
+This preprint from AIJAM is based on diaries and technical reports concerning the *Chimera Concept*, presented in Chapter 9 of the book **My Traumas | My Technologies**, written by **DANIEL SAATCHI**.
 
-The entire chapter has been developed into a dramatic sci-fi series exploring how brain–interface technologies, acoustic metamaterials, and biotechnology may evolve in the future, as well as technologies currently under development in R&D laboratories. The project aims to raise public awareness of emerging transhumanist technologies and their potential implications and threats to humanity.
+The entire chapter has been developed into a dramatic sci-fi series exploring how brain–interface technologies &  AI=enabled-metamaterials for biotechnology may evolve in the future, as well as technologies currently under development in R&D laboratories. The project aims to raise public awareness of emerging transhumanist technologies and their potential implications and threats to humanity.
 
 **KIMERA-2092** drama series (Genre: documantary & sci-fi) for transhumansim is currently under production by **DAATCHI Studio [4] Technology Design** casted by both AI-generated characters and real humans  (e.g. Daniel Saatchi will appear on a few episodes as R&D developments documenary and flashbacks for events between 2003-2029 to explain how chimera-transhuman-species developments began). It is a must-watch drama series inspired by today's technological reality while exploring possible future developments in AI, biotechnology, and transhumanism.
 
