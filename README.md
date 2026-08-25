@@ -6,7 +6,7 @@ This project is licensed under the [Apache License 2.0](https://github.com/danie
 
 
 # IIQ-Theory
-Related to paper: Interface Intelligence Quantitative Theory 
+Related to paper: Metasonic Brain Interface Intelligence Quantitative Theory 
 
 >// Brain Interface Metamaterials and Chimera Concept in AI-Biotechnology for Transhumanism
 >
