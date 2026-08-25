@@ -56,7 +56,7 @@ we provided the computational modeling code on Colab that we used after deriving
 
 
 ## Octordummer at ATINNITUS band concerts 
-ATINNITUS metal band is a pioneering cybernetic post-metal band where human band members are experimenting on different communication fidelities (e.g. brain interfaces refer to ones explained in the IIQ theory ArXive paper) to AI-robotic machines. ATINNITUS is the born point center of IIQ theory where other collaborators partnered and got involved in for interface intelligence. The Octodrummer project is a concept of brain interface metamaterial machine (BIMM) for an AI-robotic octopus-like drummer capable of improvising and synchronizing with human guitarists and vocalists of the ATINNITUS band. They want to perform two songs with it in a live concert. 
+ATINNITUS metal band is a pioneering cybernetic post-metal band where human band members are experimenting on different communication fidelities (e.g. brain interfaces refer to ones explained in the metasonic-brain-IIQ theory on AIJAM-preprint) to connect to AI-robotic-systems & machines. ATINNITUS is the born point center of IIQ theory where other collaborators partnered and got involved in for interface intelligence. The Octodrummer project is a concept of brain interface metamaterial machine (BIMM) for an AI-robotic octopus-like drummer capable of improvising and synchronizing with human guitarists and vocalists of the ATINNITUS band. They want to perform two songs with it in a live concert. 
 
 ATINNITUS album and songs can be founds on Youtube and Bandcamp Links
 
