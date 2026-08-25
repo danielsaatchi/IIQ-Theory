@@ -8,7 +8,9 @@ This project is licensed under the [Apache License 2.0](https://github.com/danie
 # IIQ-Theory
 Related to paper: Interface Intelligence Quantitative Theory 
 
->// Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engineering and AI Ventures Simulations
+>// Brain Interface Metamaterials and Chimera Concept in AI-Biotechnology for Transhumanism
+>
+>// Interface Interface Intelligence Quantified (IIQ) Computer Simulation for Financial Engineering and AI Ventures Simulations
 
 >// Behavioral Finance Application for Angel Investors, Corporate AI Investors, Venture Capitalists
 
