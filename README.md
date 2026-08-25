@@ -18,11 +18,11 @@ Related to paper: Metasonic Brain Interface Intelligence Quantitative Theory
 
 >// Repo Managed by: ONSOFA Studio [4] Artificial Intelligence
 
->// Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT 
+>// Collaborators: ONSOFA | XSEALD | DAATCHI | ATINNITUS | DSDT | AIJAM
 
 >// Date: 2025 October 18
 
->// ArXive Link for Pre-Print Before Journal Publication
+>// Preprint Link for the AIJAM Journal Publication
 
 >// Opensource Projects | Brain Interface Machines | Bitcoin Funding
 
