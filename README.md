@@ -1,4 +1,4 @@
-<img width="2000" height="823" alt="image" src="https://github.com/user-attachments/assets/a8b5eed1-509b-4d97-87ae-c0b0ab91e809" />
+<img width="2721" height="1119" alt="image" src="https://github.com/user-attachments/assets/ba829df7-6717-4fb5-8d3b-cfa409a0f9e3" />
 
 ## License
 
