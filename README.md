@@ -22,9 +22,11 @@ Related to paper: Metasonic Brain Interface Intelligence Quantitative Theory
 
 >// Date: 2026 Septemeber 17
 
->// Preprint Link for the AIJAM Journal Publication
+>// Preprint [Link](https://aijame.github.io/hash/f37636a460b4c35e6785fcf75af8e4198e13d11f2f2578d18892e2955b4d6e0e/f37636a460b4c35e6785fcf75af8e4198e13d11f2f2578d18892e2955b4d6e0e.html) for the AIJAM Journal Publication
 
->// Opensource Projects | Brain Interface Machines | Bitcoin Funding
+>// [doi.org/10.5281/zenodo.22771832](https://zenodo.org/records/22771832)
+
+>// Opensource Projects | Brain Interface Metamaterials | Bitcoin Funding
 
 > // Funding Goal: $1,000,000 USD
 
